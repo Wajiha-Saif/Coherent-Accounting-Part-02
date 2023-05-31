@@ -578,7 +578,7 @@ export default {
       monthlyPlanShow: false,
       pricing: {
         basicPlan: {
-          title: 'Basic',
+          title: 'Free',
           img: require('@/assets/images/illustration/Pot1.svg'),
           subtitle: 'A simple start for everyone',
           monthlyPrice: 45,
